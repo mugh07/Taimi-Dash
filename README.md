@@ -1,2 +1,2 @@
-# Danime-Website
-Website for Danime Discord Bot
+# Tiami-Website
+Website for Tiami Discord Bot
